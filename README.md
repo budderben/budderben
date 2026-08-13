@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm benezeth
 
 I'm a **tech-savvy developer** who loves building things for the web, automating repetitive tasks, and working with Linux systems.  
 I write clean, efficient code and enjoy solving real-world problems with technology.
